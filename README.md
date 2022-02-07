@@ -63,7 +63,7 @@ I'm currently working with the following technologies:
 - **Line management** - Line managed two Product Managers and two Associate Product Managers in the GOV.UK team, supporting them with their product management skills and personal development.
 - **Assessing government services** - Led assessments of government services against the [Government Service Standard](https://www.gov.uk/service-manual/service-standard) as a Lead Assessor.
 
-#### [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) | **Service Standard Assessments Manager** | Aug 2015 - Jan 2021
+#### [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) | **Service Standard Assessments Manager** | April 2012 - July 2015
  
 - Organised and ran assessments against the [Government Service Standard](https://www.gov.uk/service-manual/service-standard), the standard that new government services need to meet before they are able to go live on GOV.UK.
 - Facilitated iterations to the Government Service Standard and associated [Service Manual](https://www.gov.uk/service-manual) (the guidance provided by GDS to help service teams across government build services that meet the required standard).
