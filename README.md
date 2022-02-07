@@ -22,6 +22,8 @@ I'm currently working with the following technologies:
 **Hosting:** Heroku\
 **Other Tools:** Git, Github, Command line, HTML, Bootstrap, VS Code, Trello
 
+![All Stats](https://github-readme-stats.vercel.app/api?username=cloudy1986&show_icons=true&include_all_commits=true&count_private=true)
+
 
 ## <a name="skills">Skills</a>
 
