@@ -48,10 +48,27 @@ I'm currently working with the following technologies:
 
 ## <a name="skills">Skills</a>
 
+#### Problem solving
+- I have a methodical approach to problem solving. For example, during the Makers bootcamp
+
+#### Test Driven Development
+
+#### Agile approach
+- I'm an expert in agile working practices and principles
+- 
+
+#### Collaborating with others
+
+- I have strong collaboration and communication skills that mean I'm able to work very effectively and harmoniously with other people.
+- In my product manager roles I used these skills to lead multi-disciplinary teams of developers, designers, user researchers and performance analysts to understand the needs of users and build a product that meets their needs. For example, I wrote user stories and gained consensus by discussing them with the team during sprint planning. I also demonstrated my facilitation skills by leading team workshops, demoing products at show & tells, running daily stand ups and facilitating team retros.
+- I've used these skills during the Makers Academy bootcamp to ensure pairing sessions with other developers are as collaborative as possible, and during group engineering projects to ensure the team works effectively.
+
+
 ## <a name="experience">Experience</a>
 
 #### [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) - [GOV.UK](https://www.gov.uk/) | **Senior Product Manager, Product Manager, Associate Product Manager** | Aug 2015 - Jan 2021
 
+- **Email Notifications product** - led a multi-disciplinary team to reduce both product and technical debt. Analysed the causes of technical and performance issues and made the necessary improvements to make the product robust. Analysed the triggers that sent emails and made product improvements that reduced the volume of unnecessary emails sent out to users.
 - **Ask a question at the coronavirus press conference product** - built and launched a temporary service to collect and choose questions from the public for ministers and senior officials to answer at the daily coronavirus press conference.
 - **Content Data product** - built and iterated a new data product to help government publishers use data to inform their content decisions. Led a multi-disciplinary team from discovery through to releasing the public beta product [Content Data](https://insidegovuk.blog.gov.uk/2019/06/05/helping-content-designers-access-gov-uk-data-quickly-and-easily/). 71% of 2,000 publishers and 79% of 182 government organisations were using the product.
 - **Content Publisher product** - supported a new Product Manager to build and release a private beta of a [new publishing tool](https://insidegovuk.blog.gov.uk/2019/04/23/building-and-testing-the-new-content-publisher/) to better meet the needs of government publishers.
