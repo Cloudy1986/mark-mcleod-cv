@@ -55,7 +55,7 @@ I'm currently working with the following technologies:
 - Worked on group, pair and individual projects, collaborating using Github.
 - Used agile methodologies and values throughout (e.g. focusing on minimum viable product, sprint planning, pair programming, daily stand ups, retrospectives)
 
-#### [University of York](https://www.york.ac.uk/) | ** Student** | 2008 to 2011
+#### [University of York](https://www.york.ac.uk/) | **Student** | 2008 to 2011
  
 - 2.1 BA (Hons) in Economics with Economic History
  
