@@ -16,11 +16,11 @@
 
 I'm currently working with the following technologies:
 
-**Programming Languages -** Ruby, Javascript\
-**Frameworks -** Rails, Sinatra\
-**Hosting -** Heroku\
-**Testing -** RSpec, Jest\
-**Other Tools -** Git, Github, Command line, HTML, Bootstrap, PostgreSQL, TablePlus, VS Code, Trello
+**Languages and frameworks:** Ruby, Javascript, Rails, Sinatra, Node\
+**Testing:** RSpec, Capybara, Jest\
+**Databases:** PostgreSQL, TablePlus\
+**Hosting:** Heroku\
+**Other Tools:** Git, Github, Command line, HTML, Bootstrap, VS Code, Trello
 
 
 ## <a name="skills">Skills</a>
@@ -53,7 +53,7 @@ I'm currently working with the following technologies:
 - Highly selective software development bootcamp covering Ruby, Rails and Javascript.
 - Built programs/applications following object-oriented programming (OOP) principles, using a test driven development (TDD) approach, effective debugging processes and a model, view, controller (MVC) structure.
 - Worked on group, pair and individual projects, collaborating using Github.
-- Used agile methodologies and values throughout (e.g. focusing on minimum viable product, sprint planning, pair programming, daily stand ups, retrospectives)
+- Used agile methodologies and values throughout (e.g. minimum viable product, user stories, sprint planning, pair programming, daily stand ups, retrospectives)
 
 #### [University of York](https://www.york.ac.uk/) | **Student** | 2008 to 2011
  
