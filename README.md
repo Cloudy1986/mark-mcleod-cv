@@ -22,6 +22,8 @@ I'm currently working with the following technologies:
 **Hosting:** Heroku\
 **Other Tools:** Git, Github, Command line, HTML, Bootstrap, VS Code, Trello
 
+<br>
+
 <p align="left">
 <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
 <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a>
@@ -37,9 +39,7 @@ I'm currently working with the following technologies:
 <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/bootstrap/bootstrap-original.svg" alt="html5" width="40" height="40"/> </a>
 </p>
 
-
-
-
+<br>
 
 ![All Stats](https://github-readme-stats.vercel.app/api?username=cloudy1986&show_icons=true&include_all_commits=true&count_private=true)
 
