@@ -1,10 +1,10 @@
 # Mark McLeod - CV
 
-[About me](#aboutme) | [Projects and Technologies](#projectsandtechnologies) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) |
+[About me](#aboutme) | [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) |
 
 ## <a name="aboutme">About me</a>
 
-## <a name="projectsandtechnologies">Projects and Technologies</a>
+## <a name="projects">Projects</a>
 
 ## <a name="skills">Skills</a>
 
