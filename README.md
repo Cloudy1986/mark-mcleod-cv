@@ -6,6 +6,23 @@
 
 ## <a name="projects">Projects</a>
 
+| Name                         | Description       | Tech/tools        |
+| ---------------------------- | ----------------- | ----------------- |
+| **Project 1** | A webapp to do x. | React, Jest, etc. |
+| **Project 2** | A webapp to do y. | Ruby              |
+| **Project 3** | A webapp to do y. | Ruby              |
+| **Project 4** | A webapp to do y. | Ruby              |
+| **Project 5** | A webapp to do y. | Ruby              |
+
+I'm currently working with the following technologies:
+
+**Programming Languages -** Ruby, Javascript
+**Frameworks -** Rails, Sinatra
+**Hosting -** Heroku
+**Testing -** RSpec, Jest
+**Other Tools -** Git, Github, Command line, HTML, Bootstrap, PostgreSQL, TablePlus, VS Code, Trello
+
+
 ## <a name="skills">Skills</a>
 
 ## <a name="experience">Experience</a>
@@ -21,7 +38,7 @@
 
 #### [University of York](https://www.york.ac.uk/) | ** Student** | 2008 to 2011
  
-- 2.1 BA (Hons) Economics with Economic History
+- 2.1 BA (Hons) in Economics with Economic History
  
 #### [Newcastle Royal Grammar School](https://www.rgs.newcastle.sch.uk/) and [South Tyneside College](https://www.stc.ac.uk/)
  
