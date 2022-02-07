@@ -1,6 +1,6 @@
 # Mark McLeod - CV
 
-[About me](#aboutme) | [Projects and Technologies](#projectsandtechnologies) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
+[About me](#aboutme) | [Projects and Technologies](#projectsandtechnologies) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) |
 
 ## <a name="aboutme">About me</a>
 
@@ -29,3 +29,4 @@
 - GCSE's (3 A*'s, 6 A's)
 
 ## Interests
+## <a name="interests">Interests</a>
