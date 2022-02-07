@@ -24,6 +24,8 @@ I'm currently working with the following technologies:
 
 ![All Stats](https://github-readme-stats.vercel.app/api?username=cloudy1986&show_icons=true&include_all_commits=true&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cloudy1986)](https://github.com/cloudy1986/github-readme-stats)
+
 
 ## <a name="skills">Skills</a>
 
