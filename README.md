@@ -1,14 +1,16 @@
 # Mark McLeod - CV
 
-## About me
+[About me](#aboutme) | [Projects and Technologies](#projectsandtechnologies) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
 
-## Projects and Technologies
+## <a name="aboutme">About me</a>
 
-## Skills
+## <a name="projectsandtechnologies">Projects and Technologies</a>
 
-## Experience
+## <a name="skills">Skills</a>
 
-## Education
+## <a name="experience">Experience</a>
+
+## <a name="education">Education</a>
 
 #### [Makers Academy](https://www.makers.tech/) | **Software Development Bootcamp** | Nov 2021 to Jan 2022
 
@@ -21,7 +23,7 @@
  
 - 2.1 BA (Hons) Economics with Economic History
  
-#### [Newcastle Royal Grammar School](https://www.rgs.newcastle.sch.uk/) and [South Tyneside College](https://www.stc.ac.uk/) | **Student** |
+#### [Newcastle Royal Grammar School](https://www.rgs.newcastle.sch.uk/) and [South Tyneside College](https://www.stc.ac.uk/)
  
 - A-levels in Economics, Maths and Chemistry (A,A,B)
 - GCSE's (3 A*'s, 6 A's)
