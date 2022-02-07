@@ -28,5 +28,4 @@
 - A-levels in Economics, Maths and Chemistry (A,A,B)
 - GCSE's (3 A*'s, 6 A's)
 
-## Interests
 ## <a name="interests">Interests</a>
