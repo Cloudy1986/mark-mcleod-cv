@@ -65,3 +65,5 @@ I'm currently working with the following technologies:
 - GCSE's (3 A*'s, 6 A's)
 
 ## <a name="interests">Interests</a>
+
+Outside of coding, I love playing sports and keeping fit. I played professional football in League Two with Darlington F.C. and have continued to play semi-professionally ever since. I gym regularly, play golf when I can, and occassionally attend the odd yoga class. I believe exercise is a fantastic way to look after your mental health and alleviate any stresses that might be building!
