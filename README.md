@@ -16,10 +16,10 @@
 
 I'm currently working with the following technologies:
 
-**Programming Languages -** Ruby, Javascript
-**Frameworks -** Rails, Sinatra
-**Hosting -** Heroku
-**Testing -** RSpec, Jest
+**Programming Languages -** Ruby, Javascript/
+**Frameworks -** Rails, Sinatra/
+**Hosting -** Heroku/
+**Testing -** RSpec, Jest/
 **Other Tools -** Git, Github, Command line, HTML, Bootstrap, PostgreSQL, TablePlus, VS Code, Trello
 
 
