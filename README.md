@@ -4,7 +4,11 @@
 
 ## <a name="aboutme">About me</a>
 
+TO DO
+
 ## <a name="projects">Projects</a>
+
+TO DO
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -47,6 +51,8 @@ I'm currently working with the following technologies:
 
 
 ## <a name="skills">Skills</a>
+
+IN PROGRESS
 
 #### Collaborating with others
 
