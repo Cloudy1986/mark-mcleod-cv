@@ -12,7 +12,7 @@ TO DO
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Project 1** | A webapp to do x. | React, Jest, etc. |
+| **[Chitter](https://github.com/Cloudy1986/chitter-sinatra)** | A twitter clone that allows users to post messages to a public stream | Ruby, Sinatra, RSpec & Cabybara |
 | **Project 2** | A webapp to do y. | Ruby              |
 | **Project 3** | A webapp to do y. | Ruby              |
 | **Project 4** | A webapp to do y. | Ruby              |
