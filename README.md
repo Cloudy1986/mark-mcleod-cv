@@ -12,7 +12,7 @@ I'm switching from a highly relevant and successful career as a product manager.
 
 - Leading and collaborating within multi-disciplinary teams of developers, user researchers, designers and performance analysts
 - Experience of user research methods and collecting analytics data to make decisions based on evidence
-- Implementing agile principles, approaches and practices
+- Using agile principles, approaches and practices
 - Owning digital/technical products, their vision and roadmap
 - Prioritising what problems to solve, why they need to be solved and what not to prioritise
 - Understanding technical dependencies and constraints
