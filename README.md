@@ -69,7 +69,7 @@ IN PROGRESS
 #### Problem solving
 - I have a methodical approach to problem solving by understanding the problem and iteratively working towards the best solution.
 - As a product manager I worked closely with user researchers to understand the problem users were facing and defined their needs in discovery. I explored potential approaches to solving the problem through prototyping and user research activities before converging on the best idea to solve it. During the alpha phase, I tested the solution with users using prototypes and improved it through an iterative cycle based on evidence gathered. In beta I tested the live product with a subset of users through usability testing and analysing web analytics, and iteratively improved the product based on evidence.
-- I've demonstated my problem solving skills througout the Makers Academy bootcamp by understanding the coding challenges, planning an approach at the start, writing user stories for required features and prioritising the minimum viable product first. During building the solution I've test driven building the solution using a red, green, refactor approach, used a methodical debugging process, and iteratively worked towards the final solution.
+- I've demonstated my problem solving skills througout the Makers Academy bootcamp by understanding the coding challenges, planning an approach at the start, writing user stories for required features and prioritising the minimum viable product first. When building the solution I've test driven it using a red, green, refactor approach, used a methodical debugging process to unblock myself, and iteratively worked towards the final solution.
 
 #### Test Driven Development
 - I take a test driven approach to writing programs and applications.
