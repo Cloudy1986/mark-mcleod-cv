@@ -67,11 +67,14 @@ IN PROGRESS
 - I've continued to implement agile methodology and practices throughout the Makers Academy bootcamp. For example, I supported my team in the group engineering projects to take an agile approach by working in sprints, prioritising a minimum viable product, sketching a design and writing user stories.
 
 #### Problem solving
-- I have a methodical approach to problem solving. For example, during the Makers bootcamp
+- I have a methodical approach to problem solving by understanding the problem and iteratively working towards the best solution.
+- As a product manager I worked closely with user researchers to understand the problem users were facing and defined their needs in discovery. I explored potential approaches to solving the problem through prototyping and user research activities before converging on the best idea to solve it. During the alpha phase, I tested the solution with users using prototypes and improved it through an iterative cycle based on evidence gathered. In beta I tested the live product with a subset of users through usability testing and analysing web analytics, and iteratively improved the product based on evidence.
+- I've demonstated my problem solving skills througout the Makers Academy bootcamp by understanding the coding challenges, planning an approach at the start, writing user stories for required features and prioritising the minimum viable product first. During building the solution I've test driven building the solution using a red, green, refactor approach, used a methodical debugging process, and iteratively worked towards the final solution.
 
 #### Test Driven Development
-- 
-
+- I take a test driven approach to writing programs and applications.
+- During the Makers Academy bootcamp I've gained a solid understanding of what test driven development is, practical experience of taking a test driven approach and understood why it is so important.
+- Test driven development is now fundamental and ingrained in my development approach. I've put it into practice during pairing sessions, individual projects and group projects throughout the bootcamp.
 
 ## <a name="experience">Experience</a>
 
