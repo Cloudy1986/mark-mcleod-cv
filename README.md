@@ -52,8 +52,6 @@ I'm currently working with the following technologies:
 
 ## <a name="skills">Skills</a>
 
-IN PROGRESS
-
 #### Collaborating with others
 
 - I have strong collaboration and communication skills that mean I'm able to work effectively and harmoniously with other people.
