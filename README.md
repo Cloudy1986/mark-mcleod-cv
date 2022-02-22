@@ -22,10 +22,10 @@ I'm switching from a highly relevant and successful career as a product manager.
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **[Chitter](https://github.com/Cloudy1986/chitter-sinatra)** | A twitter clone that allows users to post messages to a public stream | Ruby, Sinatra, RSpec & Cabybara |
-| **Project 2** | A webapp to do y. | Ruby              |
-| **Project 3** | A webapp to do y. | Ruby              |
+| **Project 2** | A webapp to do y. | Technology |
+| **Project 3** | A webapp that... | Technology |
 | **[Bookmark Manager](https://github.com/Cloudy1986/bookmark)** | A webapp that allows user to add and manage links to websites. | Ruby, Sinatra, RSpec & Capybara |
-| **[Rock, Paper, Scissors](https://github.com/Cloudy1986/rps-challenge)** | A simple webapp to play a game of rock, paper, scissors against the computer | Ruby, Sinatra, RSpec & Capybara |
+| **Project 5** | A webapp that allows... | Technology |
 
 I'm currently working with the following technologies:
 
