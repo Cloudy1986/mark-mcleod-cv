@@ -4,11 +4,9 @@
 
 ## <a name="aboutme">About me</a>
 
-I'm an aspiring Junior Software Developer and recent graduate of [Makers Academy](https://makers.tech/). Makers Academy is a developer bootcamp where I’ve learnt the fundamentals of software development, developed solid development processes and built fun projects. I've loved learning to code over the past 16 weeks and can't wait to start my new career!
+I'm a Makers Academy graduate and ex Product Manager looking for a Software Developer role. I want to join an organisation with a culture of focusing on meeting user needs, developing their staff and continuously improving.
 
-I'm looking for my first full stack Junior Developer role in a supportive environment where I can continue to develop my technical skills and grow into an experienced Software Developer. I want to join an organisation that shares my personal values and has a culture of focussing on the needs of their users, developing their employees and uses the best development practices and processes.
-
-I'm switching from a highly relevant and successful career as a product manager. I worked for 10 years in product management roles at the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) in the [GOV.UK](https://www.gov.uk/) team. I bring relevant transferable skills from my previous roles such as:
+I'm switching from a relevant career as a product manager at the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) in the [GOV.UK](https://www.gov.uk/) team. I bring highly relevant transferable skills from my previous roles such as:
 
 - Leading and collaborating within multi-disciplinary teams of developers, user researchers, designers and performance analysts
 - Experience of user research methods and collecting analytics data to make decisions based on evidence
@@ -16,6 +14,8 @@ I'm switching from a highly relevant and successful career as a product manager.
 - Owning digital/technical products, their vision and roadmap
 - Prioritising what problems to solve, why they need to be solved and what not to prioritise
 - Understanding technical dependencies and constraints
+
+I've loved learning to code over the past 16 weeks and can't wait to start my new career!
 
 ## <a name="projects">Projects</a>
 
