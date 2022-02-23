@@ -15,7 +15,7 @@ I'm switching from a relevant product management career and bring highly relevan
 - Prioritising what problems to solve, why they need to be solved and what not to prioritise
 - Understanding technical dependencies and constraints
 
-I'm switching careers now because I want to make things instead of co-ordinate others in my teams to make things. During my learning to code journey I've really enjoyed tackling problems, getting into a state of flow and focus, and the dopamine hit of finally solving the problem. I've really loved learning to code and can't wait to start my new career!
+I'm switching careers now because I want to make things instead of co-ordinate others in my teams to make things. During my learning to code journey I've really enjoyed tackling problems, getting into a state of flow/focus, and the dopamine hit of finally solving the problem. I've really loved learning to code and can't wait to start my new career!
 
 ## <a name="projects">Projects</a>
 
