@@ -4,7 +4,7 @@
 
 ## <a name="aboutme">About me</a>
 
-I'm a Makers Academy graduate and ex Product Manager looking for a Software Developer role in an agile organisation with a culture of focusing on meeting user needs, developing their staff and continuously improving.
+I'm a Makers Academy graduate and experienced Product Manager looking for a Software Developer role in an agile organisation with a culture of focusing on meeting user needs, developing their staff and continuously improving.
 
 I’m switching careers after 10 years in product management roles and bring highly relevant transferable skills such as:
 
