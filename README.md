@@ -113,6 +113,7 @@ I'm currently working with the following technologies:
 - Built programs/applications following object-oriented programming (OOP) principles, using a test driven development (TDD) approach, effective debugging processes and a model, view, controller (MVC) structure.
 - Worked on group, pair and individual projects, collaborating using Github.
 - Used agile methodologies and values throughout (e.g. minimum viable product, user stories, sprint planning, pair programming, daily stand ups, retrospectives)
+- Covered emotional intelligence curriculum (e.g. giving feedback, receiving feedback, teamwork, pairing, empathy)
 
 #### [University of York](https://www.york.ac.uk/) | **Student** | 2008 to 2011
  
