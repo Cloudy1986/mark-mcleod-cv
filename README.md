@@ -4,18 +4,18 @@
 
 ## <a name="aboutme">About me</a>
 
-I'm a Makers Academy graduate and ex Product Manager looking for a Software Developer role. I want to join an organisation with a culture of focusing on meeting user needs, developing their staff and continuously improving.
+I'm a Makers Academy graduate and ex Product Manager looking for a Software Developer role in an agile organisation with a culture of focusing on meeting user needs, developing their staff and continuously improving.
 
 I'm switching from a relevant career as a product manager at the [Government Digital Service](https://www.gov.uk/government/organisations/government-digital-service) in the [GOV.UK](https://www.gov.uk/) team. I bring highly relevant transferable skills from my previous roles such as:
 
-- Leading and collaborating within multi-disciplinary teams of developers, user researchers, designers and performance analysts
+- Leading and collaborating within agile multi-disciplinary teams of developers, user researchers, designers and performance analysts
 - Experience of user research methods and collecting analytics data to make decisions based on evidence
 - Using agile principles, approaches and practices
 - Owning digital/technical products, their vision and roadmap
 - Prioritising what problems to solve, why they need to be solved and what not to prioritise
 - Understanding technical dependencies and constraints
 
-I've loved learning to code over the past 16 weeks and can't wait to start my new career!
+I'm switching careers because I want to make things rather than co-ordinate others to make things. I've really enjoyed tackling problems with a methodical approach, getting into a state of flow and the satisfaction of overcoming a challenging problem. I've loved learning to code and can't wait to start my new career!
 
 ## <a name="projects">Projects</a>
 
