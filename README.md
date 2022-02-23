@@ -6,7 +6,7 @@
 
 I'm a Makers Academy graduate and ex Product Manager looking for a Software Developer role in an agile organisation with a culture of focusing on meeting user needs, developing their staff and continuously improving.
 
-I'm switching from a relevant product management career and bring highly relevant transferable skills from my previous roles such as:
+I’m switching careers after 10 years in product management roles and bring highly relevant transferable skills such as:
 
 - Leading and collaborating within agile multi-disciplinary teams of developers, user researchers, designers and performance analysts
 - Experience of user research methods and collecting analytics data to make decisions based on evidence
