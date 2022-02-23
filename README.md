@@ -15,7 +15,7 @@ I'm switching from a relevant career as a product manager at the [Government Dig
 - Prioritising what problems to solve, why they need to be solved and what not to prioritise
 - Understanding technical dependencies and constraints
 
-I'm switching careers because I want to make things rather than co-ordinate others to make things. I've really enjoyed tackling problems with a methodical approach, getting into a state of flow and the satisfaction of overcoming a challenging problem. I've loved learning to code and can't wait to start my new career!
+I'm switching careers because I want to make things rather than co-ordinate others to make things. I've really enjoyed tackling problems, getting into a state of flow and the satisfaction of solving the problem. I've loved learning to code and can't wait to start my new career!
 
 ## <a name="projects">Projects</a>
 
