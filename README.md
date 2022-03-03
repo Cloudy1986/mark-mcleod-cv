@@ -21,8 +21,8 @@ I'm switching to software development because I want to make things instead of c
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **[Chitter in Sinatra](https://github.com/Cloudy1986/chitter-sinatra)** | A twitter clone that allows users to post messages to a public stream | Ruby, Sinatra, RSpec, Cabybara, PostgreSQL & Bootstrap |
-| **[Chitter in Rails](https://github.com/Cloudy1986/chitter)** | Another twitter clone that allows users to post messages to a public stream | Ruby, Rails, RSpec, Capybara, PostgreSQL, Bootstrap & Heroku |
+| **[Chitter in Sinatra](https://github.com/Cloudy1986/chitter-sinatra)** | A twitter clone that allows users to post messages to a public stream and comment on messages | Ruby, Sinatra, RSpec, Cabybara, PostgreSQL & Bootstrap |
+| **[Chitter in Rails](https://github.com/Cloudy1986/chitter)** | Another twitter clone but built using Rails instead of Sinatra | Ruby, Rails, RSpec, Capybara, PostgreSQL, Bootstrap & Heroku |
 | **[Bookmark Manager](https://github.com/Cloudy1986/bookmark)** | A webapp that allows user to add and manage links to websites. | Ruby, Sinatra, RSpec, Capybara & PostgreSQL |
 
 I'm currently working with the following technologies:
