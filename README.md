@@ -27,8 +27,8 @@ I'm switching to software development because I want to make things instead of c
 
 I'm currently working with the following technologies:
 
-**Languages and frameworks:** Ruby, Rails, Sinatra, Javascript, Node\
-**Testing:** RSpec, Capybara, Jest\
+**Languages and frameworks:** Ruby, Rails, Sinatra\
+**Testing:** RSpec, Capybara\
 **Databases:** PostgreSQL, TablePlus\
 **Hosting:** Heroku\
 **Other Tools:** Git, Github, Command line, HTML, Bootstrap, VS Code, Trello
